@@ -1,0 +1,55 @@
+[
+  {
+    "id":1,
+    "question": "Which of the following port is the default where webpack-dev-server runs?",
+    "questionType": "radio",
+    "answerOptions": [
+      { "option": "3000", "isCorrect": false },
+      { "option": "3306", "isCorrect": false },
+      { "option": "3030", "isCorrect": false },
+      { "option": "8080", "isCorrect": true }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "What are the primitive data types in JavaScript?",
+    "questionType": "checkbox",
+    "answerOptions": [
+      { "option": "string", "isCorrect": true },
+      { "option": "boolean", "isCorrect": true },
+      { "option": "object", "isCorrect": false },
+      { "option": "array", "isCorrect": false }
+    ]
+  },
+  {
+    "id":3,
+    "question": "State whether true or false:  Props are methods into other components?",
+    "questionType": "radio",
+    "answerOptions": [
+      { "option": "True", "isCorrect": true },
+      { "option": "False", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Who created React.js?",
+    "questionType": "textInput",
+    "answerOptions": [{ "option": "Jordan Walke", "isCorrect": true }]
+  },
+
+  {
+    "id": 5,
+    "question": "Match the following",
+    "questionType": "Dnd",
+    
+  "questionM":["India","South Korea","Canada","Australia"],
+ "initialData": ["Ottawa","Delhi","Canberra","Seoul"],
+ "answerOptions": [
+  { "option": "Delhi", "isCorrect": true },
+  { "option": "Seoul", "isCorrect": true },
+  { "option": "Ottawa", "isCorrect": true },
+  { "option": "Canberra", "isCorrect": true }
+]}]
+
+
+
